@@ -1,4 +1,5 @@
 CODSOFT Internship - Java Programming Tasks
+
 This repository contains the tasks completed during my CODSOFT Java Programming internship.
 
 Number Game: This is a simple game written in Java where the user guesses a randomly generated number within a specified range. The game provides hints to help the user find the correct number, indicating whether the guessed number is too high or too low.
